@@ -1,0 +1,24 @@
+/*Google Fonts including area*/
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+DE+Grund:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AU+VIC:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nova+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap');
+/*
+? Google fonts usage area
+
+
+
+*Regular type:
+font-family: "Playwrite DE Grund", cursive;
+font-family: "Architects Daughter", cursive;
+
+*Italic type:
+font-family: "Playwrite AU VIC", cursive;
+font-family: "Kaushan Script", cursive;
+font-family: "Satisfy", cursive;
+*Monospace type:
+font-family: "Nova Mono", monospace;
+
+*/
